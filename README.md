@@ -20,7 +20,7 @@ A practical PowerShell tool that turns Microsoft Defender phishing simulation CS
 Run with the included fictional sample:
 
 ```powershell
-.\Generate-PhishingSummary.ps1 -CsvPath ".\samples\fictional-phishing-simulation.csv" -OutHtmlPath ".\Phishing-Summary.html" -OpenReport
+.\Generate-PhishingSummary.ps1 -CsvPath ".\fictional-phishing-simulation.csv" -OutHtmlPath ".\Phishing-Summary.html" -OpenReport
 ```
 
 Run with your own Defender export:
@@ -32,7 +32,7 @@ Run with your own Defender export:
 ## Project structure
 
 - Generate-PhishingSummary.ps1: main report generator script
-- samples/fictional-phishing-simulation.csv: fictional demo input file
+- fictional-phishing-simulation.csv: fictional demo input file
 - LICENSE: MIT license
 - README.md: project documentation
 
