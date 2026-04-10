@@ -1,0 +1,16 @@
+# Generated reports
+*-Summary.html
+Phishing-Summary*.html
+sample-report.html
+
+# Local/private datasets
+KPhishing1.csv
+
+# Temporary files
+tmp-*.csv
+tmp-*.html
+
+# OS/editor
+Thumbs.db
+.DS_Store
+*.log
