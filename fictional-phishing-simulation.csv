@@ -1,0 +1,9 @@
+UserName,UserMail,Compromised,EmailLinkClicked_TimeStamp,CredSupplied_TimeStamp(Compromised),SuccessfullyDeliveredEmail_TimeStamp,MessageRead_TimeStamp,MessageDeleted_TimeStamp,MessageReplied_TimeStamp,MessageForwarded_TimeStamp,FailedToDeliverEmail_TimeStamp,Last Simulation Activity,Phishing Reported On
+Emily Johnson,emily.johnson@example.com,No,--,--,2026-04-01 09:01,2026-04-01 09:04,--,--,--,--,MessageRead,2026-04-01 09:12
+Michael Carter,michael.carter@example.com,Yes,2026-04-01 09:22,2026-04-01 09:24,2026-04-01 09:00,2026-04-01 09:10,--,--,--,--,CredSupplied,--
+Sarah Mitchell,sarah.mitchell@example.com,No,2026-04-01 09:41,--,2026-04-01 09:02,2026-04-01 09:18,--,--,--,--,EmailLinkClicked,--
+Daniel Brooks,daniel.brooks@example.com,No,--,--,2026-04-01 09:03,2026-04-01 09:31,2026-04-01 09:35,--,--,--,MessageDeleted,2026-04-01 09:37
+Olivia Reed,olivia.reed@example.com,No,--,--,2026-04-01 09:05,2026-04-01 09:49,--,2026-04-01 09:53,--,--,MessageForwarded,--
+Ryan Peterson,ryan.peterson@example.com,No,--,--,2026-04-01 09:06,2026-04-01 10:02,--,2026-04-01 10:06,--,--,MessageReplied,--
+Ethan Walker,ethan.walker@example.com,No,--,--,--,--,--,--,--,2026-04-01 08:58,FailedToDeliverEmail,--
+Megan Collins,megan.collins@example.com,No,--,--,2026-04-01 09:07,2026-04-01 10:16,--,--,--,--,MessageRead,2026-04-01 10:21
