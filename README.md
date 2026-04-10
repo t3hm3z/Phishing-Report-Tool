@@ -1,6 +1,6 @@
 # Phishing Simulation Summary Report
 
-A practical PowerShell tool that turns Microsoft Defender phishing simulation CSV exports into a single-page, interactive HTML summary for management reporting.
+A practical PowerShell tool that turns Microsoft Defender phishing simulation CSV exports into a single-page, interactive HTML summary for management reporting. Code prepared using AI, So make sure dont trust it .
 
 ## What this project provides
 
